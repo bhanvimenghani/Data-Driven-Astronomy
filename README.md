@@ -9,29 +9,27 @@ It was in the middle of the eighteenth century that Kant and Wright first sugges
 
 As a first step in understanding any new collection of objects, it is necessary to classify them according to their intrinsic characteristics. Hubble played a major role in this classification. Hubble in his book "The realm of nebulae", Hubble proposed that galaxies be grouped into three primary categories based on their overall appearance. This morphological classification scheme, known as the Hubble sequence, divides galaxies into ellipticals (E's), spirals, and irregulars (Irr's).The spirals are further subdivided into two parallel sequences, the normal spirals (S's), and the barred spirals (SB's). A transitional class of galaxies between ellipticals and spirals is known as lenticulars. It can be either normal (S0's) or barred (SB0's). Hubble then arranged this morphological sequence in the form of a tuning-fork diagram.
 
-![](file:///C:/Users/VIKRAM~1/AppData/Local/Temp/msohtmlclip1/01/clip_image002.gif)
+![Picture1](https://user-images.githubusercontent.com/72499426/98267342-48717680-1fb1-11eb-8a40-2df56a47a643.png)
 
 Hubble originally thought (incorrectly) that the tuning-fork diagram could be interpreted as an evolutionary sequence for galaxies. As a result, he referred to galaxies toward the left of the diagram as early types and to those toward the right as late types, terminology that is still in widespread use today. Within the category of ellipticals, Hubble made divisions based on the observed ellipticity of the galaxy, defined by
 
-![](file:///C:/Users/VIKRAM~1/AppData/Local/Temp/msohtmlclip1/01/clip_image004.gif)
+# ∈≡1-α/β
 
-Where α and β are the apparent major and minor axes of the ellipse, respectively, projected onto the plane of the sky. Galaxies with ellipticities greater than ![](file:///C:/Users/VIKRAM~1/AppData/Local/Temp/msohtmlclip1/01/clip_image006.gif) have never been observed, implying that no E galaxies with intrinsic ellipticities greater than 0.7 appear to exist. The apparent ellipticity may not correspond well to an actual ellipticity since the orientation of the spheroid to our line of sight plays a crucial role in our observations.
+Where α and β are the apparent major and minor axes of the ellipse, respectively, projected onto the plane of the sky. Galaxies with ellipticities greater than ∈=0.7 have never been observed, implying that no E galaxies with intrinsic ellipticities greater than 0.7 appear to exist. The apparent ellipticity may not correspond well to an actual ellipticity since the orientation of the spheroid to our line of sight plays a crucial role in our observations.
 
-![](file:///C:/Users/VIKRAM~1/AppData/Local/Temp/msohtmlclip1/01/clip_image008.gif)
+![Picture2](https://user-images.githubusercontent.com/72499426/98267594-91c1c600-1fb1-11eb-9828-e0a5cf961d0b.png)
 
-This is a spheroidal galaxy that has lengths ![](file:///C:/Users/VIKRAM~1/AppData/Local/Temp/msohtmlclip1/01/clip_image010.gif) and![](file:///C:/Users/VIKRAM~1/AppData/Local/Temp/msohtmlclip1/01/clip_image012.gif).
+This is a spheroidal galaxy that has lengths a=b and c<a.![Picture3](https://user-images.githubusercontent.com/72499426/98268215-42c86080-1fb2-11eb-9417-1b94a351b6d3.png)
 
-![](file:///C:/Users/VIKRAM~1/AppData/Local/Temp/msohtmlclip1/01/clip_image014.gif)
-
-A prolate spheroidal galaxy has axis lengths![](file:///C:/Users/VIKRAM~1/AppData/Local/Temp/msohtmlclip1/01/clip_image016.gif) and![](file:///C:/Users/VIKRAM~1/AppData/Local/Temp/msohtmlclip1/01/clip_image018.gif).
+A prolate spheroidal galaxy has axis lengths  b=c and a>b.
 
 Hubble subdivided the spiral sequences into Sa, Sab, Sb, Sbc, Sc, and SBa, SBab,
 
-SBb, SBbc, SBc. The galaxies with the most prominent bulges (the largest bulge-to-disk luminosity ratios,![](file:///C:/Users/VIKRAM~1/AppData/Local/Temp/msohtmlclip1/01/clip_image020.gif), the most tightly wound spiral arms. ), and the smoothest distribution of stars in the arms are classified as Sa's (or SBa's), while Sc's (or SBc's) have smaller bulge-to-disk ratios![](file:///C:/Users/VIKRAM~1/AppData/Local/Temp/msohtmlclip1/01/clip_image022.gif). Hubble split the remaining category of irregulars into Irr I if there was at least some hint of an organized structure, such as spiral arms, and Irr II for the most extremely disorganized structures.
+SBb, SBbc, SBc. The galaxies with the most prominent bulges the largest bulge-to-disk luminosity ratios,(L_bulge⁄(L_disk~0.3)) the most tightly wound spiral arms.  and the smoothest distribution of stars in the arms are classified as Sa's (or SBa's), while Sc's (or SBc's) have smaller bulge-to-disk ratios (L_bulge⁄L_disk ~0.005) Hubble split the remaining category of irregulars into Irr I if there was at least some hint of an organized structure, such as spiral arms, and Irr II for the most extremely disorganized structures. Hubble split the remaining category of irregulars into Irr I if there was at least some hint of an organized structure, such as spiral arms, and Irr II for the most extremely disorganized structures.
 
 As a further refinement to the system, the lenticular galaxies are also sometimes subdivided according to the amount of dust absorption in their disks. S01 galaxies have no dust their disks, while S03 galaxies have significant amounts of dust, and similarly for SB01 through SB03.In order to make finer distinctions between normal and barred spirals, de Vaucouleurs had also suggested referring to normal spirals as SA rather than simply S. Intermediate types with weak bars are then characterized as SAB, and strongly barred galaxies are SB. The overall picture of classification looks like this
 
-![](file:///C:/Users/VIKRAM~1/AppData/Local/Temp/msohtmlclip1/01/clip_image024.gif)
+![Picture4](https://user-images.githubusercontent.com/72499426/98268917-18c36e00-1fb3-11eb-9905-d767980d1b9b.png)
 
 Properties of Galaxies:
 -----------------------
