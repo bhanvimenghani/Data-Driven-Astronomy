@@ -55,10 +55,12 @@ a=b>c it is called oblate, a>b=c it is called prolate, a>b>c it is called tri-ax
 
 ![Picture5](https://user-images.githubusercontent.com/72499426/98270181-9f2c7f80-1fb4-11eb-9251-eb26531a5f87.jpg)
 
+
 M89 -- E0 Galaxy
 
 
 ![Picture6](https://user-images.githubusercontent.com/72499426/98270500-f0d50a00-1fb4-11eb-93f6-03eecfc4d142.jpg)
+
 
 NGC 4621 -- E5 Galaxy
 
@@ -77,39 +79,25 @@ Spiral Galaxies (S Galaxy/ Late type Galaxy):
 
 - They seem to avoid dense groups and are very rare in clusters.
 
-|
 
-|
+![Picture8](https://user-images.githubusercontent.com/72499426/98271096-938d8880-1fb5-11eb-9284-b5eef885c509.jpg)
 
-NGC 2008
+ NGC 2008
 
- |
-
-  |
-
-|
-
-|
+ 
+![Picture7](https://user-images.githubusercontent.com/72499426/98270897-5b864580-1fb5-11eb-96c1-168a2715ccac.jpg)
 
 NGC 1300
 
- |
 
-  |
+![Picture9](https://user-images.githubusercontent.com/72499426/98271249-bfa90980-1fb5-11eb-80d3-96b02b08cdc6.jpg)
 
-![https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/HAWK-I_NGC_1300.jpg/800px-HAWK-I_NGC_1300.jpg](file:///C:/Users/VIKRAM~1/AppData/Local/Temp/msohtmlclip1/01/clip_image030.jpg)                                ![https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Open_Arms_-_potw2006a.jpg/220px-Open_Arms_-_potw2006a.jpg](file:///C:/Users/VIKRAM~1/AppData/Local/Temp/msohtmlclip1/01/clip_image032.jpg)      
 
-|
-
-|
 
 NGC 428 Barred Spiral Galaxy
 
- |
 
-  |
 
-![https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/A_mess_of_stars.jpg/220px-A_mess_of_stars.jpg](file:///C:/Users/VIKRAM~1/AppData/Local/Temp/msohtmlclip1/01/clip_image034.jpg)
 =================================================================================================================================================================================================================================================
 
 Irregular Galaxies (Irr Galaxy):
@@ -121,18 +109,11 @@ Irregular Galaxies (Irr Galaxy):
 
 - One type of irregular galaxies is 'Starburst Galaxy'. They shine very brightly as the new stars are born in a short period of time.
 
-![https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Irregular_galaxy_NGC_1427A_%28captured_by_the_Hubble_Space_Telescope%29.jpg/220px-Irregular_galaxy_NGC_1427A_%28captured_by_the_Hubble_Space_Telescope%29.jpg](file:///C:/Users/VIKRAM~1/AppData/Local/Temp/msohtmlclip1/01/clip_image036.jpg)
-
-|  |
-|  |
-
-|
+![Picture10](https://user-images.githubusercontent.com/72499426/98271879-6ab9c300-1fb6-11eb-9e51-9cc1b8d2ece8.jpg)
 
 NGC 1427A
 
- |
 
-  |
 
 Lenticular Galaxies (Armless spiral Galaxy):
 ============================================
@@ -141,15 +122,15 @@ Lenticular Galaxies (Armless spiral Galaxy):
 
 - Few lenticular galaxies have bars like spiral galaxies; they are called barred lenticular galaxies and denoted as SB0. Other normal galaxies are denoted as S0.
 
-|
 
-|
+
+![Picture11](https://user-images.githubusercontent.com/72499426/98272081-ac4a6e00-1fb6-11eb-8271-396b02de7493.jpg)
 
 NGC 936 -- SB0 Galaxy
 
- |
 
-  |
+
+
 
 
 Application:\
@@ -225,7 +206,7 @@ The lack of adequate cluster samples to provide an unbiased look at the problem,
 
 Reference: The Most Distant Galaxies: Theoretical Challenges
 
-[                      http://dx.doi.org/10.1063/1.3518844](http://dx.doi.org/10.1063/1.3518844)
+-(http://dx.doi.org/10.1063/1.3518844)
 
 Challenges in Classification
 ============================
@@ -234,12 +215,12 @@ Challenges in Classification
 
 - Star-Galaxy Image Classification
 
-A classical problem in the analysis of astronomical panoramic imagery.The characteristic resolution of an astronomical image is given through a combination of the instrumental resolution.
+ A classical problem in the analysis of astronomical panoramic imagery.The characteristic resolution of an astronomical image is given through a combination of the instrumental   resolution.
 
-- Dynamical, Real-Time Classification of Astronomical Transient Events in Synoptic Sky Surveys
+-Dynamical, Real-Time Classification of Astronomical Transient Events in Synoptic Sky Surveys
 
 A need for dynamical, real-time scientific measurement systems, consisting of discovery instruments or sensors, a real-time computational analysis and decision engine, and optimized follow-up instruments which can be deployed selectively in (or in near) real-time, where measurements feed back into the analysis immediately.
 
 Reference: Some Pattern Recognition Challenges in Data-Intensive Astronomy
 
-**DOI: **[10.1109/ICPR.2006.1064](https://doi.org/10.1109/ICPR.2006.1064)
+**DOI:**(https://doi.org/10.1109/ICPR.2006.1064)
