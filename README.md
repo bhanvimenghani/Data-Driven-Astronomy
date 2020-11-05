@@ -49,30 +49,22 @@ In a 3D ellipsoidal shape with semi axes a, b, c if:
 
 a=b>c it is called oblate, a>b=c it is called prolate, a>b>c it is called tri-axial.
 
--  They have no current star formation and are usually found in galaxy clusters and compact groups.
+-They have no current star formation and are usually found in galaxy clusters and compact groups.
 
-- They have old stars and contains little gas and dust.
+-They have old stars and contains little gas and dust.
 
-![https://cas.sdss.org/dr6/en/proj/basic/galaxies/images/ellipt1.jpg](file:///C:/Users/VIKRAM~1/AppData/Local/Temp/msohtmlclip1/01/clip_image026.jpg) ![https://cas.sdss.org/dr6/en/proj/basic/galaxies/images/ellipt3.jpg](file:///C:/Users/VIKRAM~1/AppData/Local/Temp/msohtmlclip1/01/clip_image028.jpg)
-
-|  |  |  |  |
-|  |
-
-|
+![Picture5](https://user-images.githubusercontent.com/72499426/98270181-9f2c7f80-1fb4-11eb-9251-eb26531a5f87.jpg)
 
 M89 -- E0 Galaxy
 
- |
 
-  |  |
-
-|
+![Picture6](https://user-images.githubusercontent.com/72499426/98270500-f0d50a00-1fb4-11eb-93f6-03eecfc4d142.jpg)
 
 NGC 4621 -- E5 Galaxy
 
- |
+ 
 
-  |
+  
 
 Spiral Galaxies (S Galaxy/ Late type Galaxy):
 =============================================
